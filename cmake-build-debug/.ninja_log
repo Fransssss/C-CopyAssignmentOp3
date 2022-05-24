@@ -1,0 +1,20 @@
+# ninja log v5
+6	1141	6750833625006746	CMakeFiles/C_CopyAssignmentOp3.dir/MyClass.cpp.obj	ca92e113642e9ac8
+1	1155	6750833625090482	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+1155	1487	6750833628397014	C_CopyAssignmentOp3.exe	c3579c168929b94d
+6	557	6750834521351417	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+558	804	6750834523952460	C_CopyAssignmentOp3.exe	c3579c168929b94d
+6	605	6750834691070062	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+607	854	6750834693506745	C_CopyAssignmentOp3.exe	c3579c168929b94d
+6	513	6750834887169075	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+515	762	6750834889552969	C_CopyAssignmentOp3.exe	c3579c168929b94d
+5	495	6750835086366284	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+496	796	6750835089252562	C_CopyAssignmentOp3.exe	c3579c168929b94d
+9	557	6750835651269848	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+558	750	6750835653166734	C_CopyAssignmentOp3.exe	c3579c168929b94d
+6	556	6750835839874555	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+557	823	6750835842453269	C_CopyAssignmentOp3.exe	c3579c168929b94d
+8	549	6750835967399331	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+550	791	6750835969766304	C_CopyAssignmentOp3.exe	c3579c168929b94d
+5	590	6750837741963695	CMakeFiles/C_CopyAssignmentOp3.dir/main.cpp.obj	b19fbeca7b0d55bc
+591	938	6750837745346830	C_CopyAssignmentOp3.exe	c3579c168929b94d
